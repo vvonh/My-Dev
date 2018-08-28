@@ -1,0 +1,10 @@
+Unhandled Exception: System.ServiceModel.FaultException`1[[Microsoft.Xrm.Sdk.OrganizationServiceFault, Microsoft.Xrm.Sdk, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]: System.NullReferenceException: Microsoft Dynamics CRM has experienced an error. Reference number for administrators or support: #CBE7B588Detail: 
+<OrganizationServiceFault xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/xrm/2011/Contracts">
+  <ErrorCode>-2147220970</ErrorCode>
+  <ErrorDetails xmlns:d2p1="http://schemas.datacontract.org/2004/07/System.Collections.Generic" />
+  <Message>System.NullReferenceException: Microsoft Dynamics CRM has experienced an error. Reference number for administrators or support: #CBE7B588</Message>
+  <Timestamp>2016-02-12T01:42:55.039583Z</Timestamp>
+  <InnerFault i:nil="true" />
+  <TraceText i:nil="true" />
+</OrganizationServiceFault>
+
