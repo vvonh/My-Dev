@@ -1,3 +1,4 @@
 2018.8.28 Initial - MyFile2.txt
 2018.8.28 #2 - Test change - MyDevBranch version #1
 2018.9.10 #3 - Adhoc update to file. Save to location outside of Git repository folder. Upload to GIT manually
+2018.9.10 #4 - My change to local master copy.
