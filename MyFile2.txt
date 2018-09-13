@@ -3,3 +3,4 @@
 2018.9.10 #3 - Adhoc update to file. Save to location outside of Git repository folder. Upload to GIT manually
 2018.9.10 #4 - My change to local master copy.
 2018.9.10 #5 - My change to local master copy. Test push to master.
+2018.9.12 #6 - Test commit changes from Sourcetree.
