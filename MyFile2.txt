@@ -6,3 +6,4 @@
 2018.9.12 #6 - Test commit changes from Sourcetree.
 2018.9.12 #7 - Test commit changes from Sourcetree with auto push to Github.
 2018.9.17 #8 - Review test.
+2018.9.17 #8.1 - Update outside of process.
